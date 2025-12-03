@@ -1,0 +1,17 @@
+body{
+     background: grey;
+     text-align: center;
+}
+.dropdown{
+    width: 200px;
+    height: 40px;
+    font-size:18px;
+    border-radius: 5px;
+    background-color:rgb(212,223,168);
+}
+option{
+         padding: 10px;
+         }
+         option:hover{
+            background-color:rgb(84,210,128);
+         }
